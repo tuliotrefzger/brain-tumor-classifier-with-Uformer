@@ -1,4 +1,4 @@
-# Brain Tumor Classifier with Comparison Between Degraded and Restored versions of the Dataset.  
+# Brain Tumor Classifier and Comparison Between Degraded and Restored versions of the Dataset.  
 
 
 ## Objective
